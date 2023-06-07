@@ -10,3 +10,12 @@
 .form-check {
     margin: 0 10px;
 }
+
+.form-check-input:checked+.form-check-label {
+    color: red;
+}
+
+.form-check-input:checked {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
