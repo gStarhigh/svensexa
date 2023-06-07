@@ -1,0 +1,12 @@
+.hero {
+    max-height: 282px;
+    object-fit: cover;
+}
+
+.form-check-label {
+    margin: 2px 0px
+}
+
+.form-check {
+    margin-left: 5px;
+}
