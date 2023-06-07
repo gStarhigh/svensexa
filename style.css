@@ -19,3 +19,11 @@
     background-color: #dc3545;
     border-color: #dc3545;
 }
+
+.header {
+    color: rgb(45, 45, 182);
+}
+
+.desc {
+    color: orangered;
+}
