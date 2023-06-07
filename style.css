@@ -8,14 +8,14 @@
 }
 
 .form-check {
-    margin: 0 10px;
+    margin: 5px 10px;
 }
 
-.form-check-input:checked+.form-check-label {
+.block {
     color: red;
 }
 
-.form-check-input:checked {
+.block:checked {
     background-color: #dc3545;
     border-color: #dc3545;
 }
