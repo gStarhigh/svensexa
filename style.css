@@ -1,6 +1,6 @@
 .hero {
     max-height: 282px;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .form-check-label {
@@ -31,4 +31,29 @@
 .form-check-input:checked {
     background-color: green;
     border-color: green;
+}
+
+.intro {
+    margin-top: 30px;
+    font-family: "Exo", sans-serif;
+}
+
+.schema {
+    margin-top: 10px;
+    font-family: "Exo", sans-serif;
+}
+
+body {
+    font-family: "Exo", sans-serif;
+}
+
+.red {
+    background-color: red;
+    border-color: red;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-left: 10px;
 }
